@@ -277,7 +277,7 @@ export const Contact = () => {
 
               <div className="aspect-square lg:aspect-auto lg:h-[500px] bg-gray-100 rounded-2xl overflow-hidden shadow-card">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127066.75125128555!2d-0.2871445!3d5.5912087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf9084b2b7a773%3A0xbed14ed8650e2dd3!2sAccra%2C%20Ghana!5e0!3m2!1sen!2sus!4v1709901234567!5m2!1sen!2sus"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3970.14251210888!2d-0.1123715032104457!3d5.69253880000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf8319e39f20c7%3A0xae0269ffc4c6c374!2sDM%20PROPERTIES%20AND%20AGENCY%20LTD!5e0!3m2!1sen!2sgh!4v1773321661687!5m2!1sen!2sgh"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
