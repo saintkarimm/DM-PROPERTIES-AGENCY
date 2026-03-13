@@ -160,7 +160,7 @@ export const WorldMapSection = () => {
         >
           <div className="rounded-2xl overflow-hidden shadow-2xl border border-white/10">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3970.14251210888!2d-0.1123715032104457!3d5.69253880000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf8319e39f20c7%3A0xae0269ffc4c6c374!2sDM%20PROPERTIES%20AND%20AGENCY%20LTD!5e0!3m2!1sen!2sgh!4v1773321661687!5m2!1sen!2sgh"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3970.0848374497045!2d-0.01744962501378619!3d5.700882694280905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x102081fc4de5a681%3A0xde4120303b06e113!2sWenamy%20Ghana%20Ltd.%20Brokerage!5e0!3m2!1sen!2sgh!4v1773428238509!5m2!1sen!2sgh"
               width="100%"
               height="450"
               style={{ border: 0 }}
