@@ -167,12 +167,12 @@ export const WorldMapSection = () => {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="DM Properties and Agency Location"
+              title="Wenamy Ghana Ltd Location"
               className="w-full"
             />
           </div>
           <p className="text-center text-white/50 text-sm mt-4">
-            Visit our headquarters in Accra, Ghana
+            Visit us at Ashaiman Roundabout, close to Bank of Africa, Tema
           </p>
         </motion.div>
       </div>

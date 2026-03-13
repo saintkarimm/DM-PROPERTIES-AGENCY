@@ -22,12 +22,12 @@ export const Footer = () => {
                 <Building2 className="w-6 h-6 text-white" />
               </div>
               <div className="flex flex-col">
-                <span className="font-bold text-lg text-white leading-tight">DM Properties</span>
-                <span className="text-xs text-white/60">& Agency</span>
+                <span className="font-bold text-lg text-white leading-tight">Wenamy Ghana</span>
+                <span className="text-xs text-white/60">Ltd</span>
               </div>
             </Link>
             <p className="text-white/60 text-sm leading-relaxed mb-6">
-              A cutting-edge real estate agent that offers a seamless and immersive experience for finding your dream home.
+              A leading real estate company specializing in High ROI investments, Engineering & Construction, Brokerage & Agency services, and Land Investment.
             </p>
             
             {/* Newsletter */}
@@ -107,15 +107,15 @@ export const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-gold flex-shrink-0 mt-0.5" />
-                <span className="text-white/60 text-sm">MVVR+2W5, Adenta Municipality, Accra</span>
+                <span className="text-white/60 text-sm">Ashaiman Roundabout, Close to Bank of Africa, Tema</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-gold flex-shrink-0" />
-                <span className="text-white/60 text-sm">+233 247596787</span>
+                <span className="text-white/60 text-sm">0243817969 / 0506689602</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-gold flex-shrink-0" />
-                <span className="text-white/60 text-sm">dmpropertiesagency@gmail.com</span>
+                <span className="text-white/60 text-sm">wenamyinfo@gmail.com</span>
               </li>
             </ul>
 
@@ -143,7 +143,7 @@ export const Footer = () => {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-white/40 text-sm text-center sm:text-left">
-              © {new Date().getFullYear()} DM Properties and Agency. All rights reserved.
+              © {new Date().getFullYear()} Wenamy Ghana Ltd. All rights reserved.
             </p>
             <p className="text-white/40 text-sm">
               From Keys to Comfort — We've Got You Covered

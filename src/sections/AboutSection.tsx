@@ -62,7 +62,7 @@ export const AboutSection = () => {
               Looking for a trustworthy and experienced real estate broker in Ghana who delivers more than just keys?
             </p>
             <p className="text-gray-600 leading-relaxed mb-8">
-              DM Properties and Agency offers rentals, property sales, land acquisition, Airbnb services, car rentals, interior décor, painting, tiling and complete property management.
+              Wenamy Ghana Ltd specializes in High ROI Real Estate Investment Portfolios, Engineering & Building Construction, Brokerage & Agency Services, and Lands & Land Investment.
             </p>
             <p className="text-gray-600 leading-relaxed mb-10">
               We proudly serve Spintex and prime locations including East Legon, Adjiringanor, Airport Residential, Trasaco, East Legon Hills, Cantonments, Tse Addo, Dzowulu, Adenta and Oyarifa.

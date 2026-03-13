@@ -48,10 +48,10 @@ export const Navbar = () => {
             </div>
             <div className="flex flex-col">
               <span className={`font-bold text-lg leading-tight transition-colors ${isScrolled ? 'text-gray-900' : 'text-white'}`}>
-                DM Properties
+                Wenamy Ghana
               </span>
               <span className={`text-xs transition-colors ${isScrolled ? 'text-gray-500' : 'text-white/70'}`}>
-                & Agency
+                Ltd
               </span>
             </div>
           </Link>
@@ -104,7 +104,7 @@ export const Navbar = () => {
                     <div className="w-8 h-8 bg-gold rounded-lg flex items-center justify-center">
                       <Building2 className="w-5 h-5 text-white" />
                     </div>
-                    <span className="font-bold text-gray-900">DM Properties</span>
+                    <span className="font-bold text-gray-900">Wenamy Ghana</span>
                   </div>
                 </div>
                 <nav className="flex flex-col gap-2 py-6">

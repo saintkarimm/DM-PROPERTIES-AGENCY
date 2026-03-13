@@ -40,17 +40,17 @@ export const Contact = () => {
     {
       icon: MapPin,
       title: 'Visit Us',
-      details: ['MVVR+2W5, Adenta Municipality', 'Accra, Ghana'],
+      details: ['Ashaiman Roundabout', 'Close to Bank of Africa, Tema'],
     },
     {
       icon: Phone,
       title: 'Call Us',
-      details: ['+233 247596787', '+233 055918608'],
+      details: ['0243817969', '0506689602'],
     },
     {
       icon: Mail,
       title: 'Email Us',
-      details: ['dmpropertiesagency@gmail.com'],
+      details: ['wenamyinfo@gmail.com'],
     },
     {
       icon: Clock,
@@ -236,7 +236,7 @@ export const Contact = () => {
               {/* Quick Contact Buttons */}
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://wa.me/233247596787"
+                  href="https://wa.me/233243817969"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1"
@@ -249,7 +249,7 @@ export const Contact = () => {
                     WhatsApp
                   </Button>
                 </a>
-                <a href="tel:+233247596787" className="flex-1">
+                <a href="tel:+233243817969" className="flex-1">
                   <Button
                     variant="outline"
                     className="w-full border-gold text-gold hover:bg-gold hover:text-white"
@@ -272,7 +272,7 @@ export const Contact = () => {
                 Find Us
               </h2>
               <p className="text-gray-600 mb-8">
-                Visit our office in Adenta Municipality, Accra
+                Visit our office at Ashaiman Roundabout, close to Bank of Africa, Tema
               </p>
 
               <div className="aspect-square lg:aspect-auto lg:h-[500px] bg-gray-100 rounded-2xl overflow-hidden shadow-card">
@@ -284,7 +284,7 @@ export const Contact = () => {
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="DM Properties Location"
+                  title="Wenamy Ghana Ltd Location"
                 />
               </div>
             </motion.div>
@@ -309,7 +309,7 @@ export const Contact = () => {
               Experience top-notch customer service and let us guide you on your property journey
             </p>
             <a
-              href="https://wa.me/233247596787"
+              href="https://wa.me/233243817969"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-white text-gold font-semibold px-8 py-4 rounded-xl hover:bg-gray-100 transition-colors"

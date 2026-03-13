@@ -229,7 +229,7 @@ export const PropertyDetail = () => {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500">Phone</p>
-                    <p className="font-semibold text-gray-900">+233 247596787</p>
+                    <p className="font-semibold text-gray-900">0243817969</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
@@ -238,14 +238,14 @@ export const PropertyDetail = () => {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500">Email</p>
-                    <p className="font-semibold text-gray-900 text-sm">dmpropertiesagency@gmail.com</p>
+                    <p className="font-semibold text-gray-900 text-sm">wenamyinfo@gmail.com</p>
                   </div>
                 </div>
               </div>
 
               <div className="space-y-3">
                 <a 
-                  href="https://wa.me/233247596787"
+                  href="https://wa.me/233243817969"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

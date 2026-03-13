@@ -72,7 +72,7 @@ export const About = () => {
             className="text-center"
           >
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6">
-              About DM Properties
+              About Wenamy Ghana Ltd
             </h1>
             <p className="text-xl text-white/70 max-w-2xl mx-auto">
               Your trusted partner in finding the perfect property across Ghana
@@ -93,7 +93,7 @@ export const About = () => {
             >
               <img
                 src="/images/about-property.jpg"
-                alt="DM Properties Office"
+                alt="Wenamy Ghana Ltd Office"
                 className="rounded-2xl shadow-2xl"
               />
             </motion.div>
@@ -108,7 +108,7 @@ export const About = () => {
               </h2>
               <p className="text-gray-600 leading-relaxed mb-6">
                 Looking for a trustworthy and experienced real estate broker in Ghana who delivers more than just keys? 
-                DM Properties and Agency has been serving clients for over 25 years, providing comprehensive real estate 
+                Wenamy Ghana Ltd is a leading real estate company providing comprehensive real estate 
                 solutions that go beyond expectations.
               </p>
               <p className="text-gray-600 leading-relaxed mb-6">
@@ -150,7 +150,7 @@ export const About = () => {
               Our Core Values
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              The principles that guide everything we do at DM Properties
+              The principles that guide everything we do at Wenamy Ghana Ltd
             </p>
           </motion.div>
 

@@ -121,7 +121,7 @@ export const Services = () => {
               transition={{ duration: 0.5 }}
             >
               <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-6">
-                Why Choose DM Properties?
+                Why Choose Wenamy Ghana Ltd?
               </h2>
               <div className="space-y-6">
                 {[
@@ -201,7 +201,7 @@ export const Services = () => {
                 <ArrowRight className="w-5 h-5" />
               </a>
               <a 
-                href="https://wa.me/233247596787"
+                href="https://wa.me/233243817969"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-whatsapp text-white font-semibold px-8 py-4 rounded-xl hover:bg-whatsapp/90 transition-colors"
